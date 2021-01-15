@@ -18,7 +18,7 @@ Each cell has 8 neighboring cells (including adjacent and diagonal cells). The f
 3. Any live cell with more than three live neighbors dies due to overpopulation.
 4. Any dead cell with exactly three live neighbors becomes a live cell by reproduction
 
-Some interesting patterns include: breeders (Gosper glider gun, backrake etc.) which show rapid population growth, gemini which creates exact copy of itself.
+Some interesting patterns formed using Conway's Game of Life include: breeders (Gosper glider gun, backrake etc.) which show rapid population growth, gemini which creates exact copy of itself.
 
 ## Live :octocat:
 [GitHub](https://mighty-geek.github.io/Game_of_Life/)
