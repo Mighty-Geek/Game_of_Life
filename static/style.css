@@ -42,9 +42,9 @@ span{
 #start, #reset, #random{
     margin: 2rem;
     padding: 1rem;
-    border-radius: 5px;
+    box-shadow: 0px 0px 10px #000;
     color: white;
-    background-color: crimson;
+    background-color: #111;
     transition: all 1s ease;
 }
 #start:hover, #reset:hover, #random:hover{
