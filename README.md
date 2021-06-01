@@ -4,7 +4,7 @@
 
 **Game of life** is a logic class of **cellular automata**.
 
-There are various real-life examples which show that complex structures can arise from simple ones, e.g. snowflake, pattern formation in animals and plants, fluid tubulence etc.
+There are various real-life examples which show that complex structures can arise from simple ones, e.g. snowflake, pattern formation in animals and plants, fluid turbulence etc.
 
 Game of life gives an idea of self-assembling materials and robots.
 
