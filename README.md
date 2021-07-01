@@ -21,6 +21,6 @@ Each cell has 8 neighboring cells (including adjacent and diagonal cells). The f
 Some interesting patterns formed using Conway's Game of Life include: breeders (Gosper glider gun, backrake etc.) which show rapid population growth, gemini which creates exact copy of itself.
 
 ## Live :octocat:
-[visit link](https://mighty-geek.github.io/Game_of_Life/)
+Check out live: [visit link](https://mighty-geek.github.io/Game_of_Life/)
 
 
